@@ -1,0 +1,2 @@
+# wpmod
+wordpress-mod-nginx
