@@ -1,0 +1,16 @@
+{
+  "Gemfile": "0b0ef34a57239868636b26141342423f",
+  "README.md": "bb5a78ccd5c95d7227367e6a8effb31e",
+  "Rakefile": "158b889261acd98356f6e0f2a031b6b9",
+  "examples/init.pp": "f17331711ed7b32035a3f46c6f31a392",
+  "files/latest.tar.gz": "2e8744a702a3d9527782d9135a4c9544",
+  "manifests/conf.pp": "850e61960d49a83f50741c0e1c06e7c3",
+  "manifests/db.pp": "338fe41677d86db5523986c7d374c6e7",
+  "manifests/init.pp": "23df86d94ddbb96d000e84abf7defd64",
+  "manifests/web.pp": "2e09050348c1bae7fade7b3d7b1f532d",
+  "manifests/wp.pp": "0ff10a42067b62210fea7c9a2aa972fc",
+  "metadata.json": "9d083fd6c18ae751c91af4f5f092e067",
+  "spec/classes/init_spec.rb": "7fbc1ef2387bfaf876e0aa2e2ada0a2c",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+  "templates/wp-config.php.erb": "7bd2f769db5b5281118b5af7199c0174"
+}
