@@ -1,6 +1,6 @@
 INSTALLATION 
 
-Follow four step installation to avoid dependencies issues:
+Follow four step installation to avoid dependency issues:
 
 puppet module install puppet-nginx --version 0.8.0
  
