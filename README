@@ -8,4 +8,4 @@ puppet module install puppetlabs-mysql --version 5.1.0
 
 puppet module install mayflower-php --version 4.0.0-beta1
 
-puppet module install --force roshan-wordpress --version 1.0.0
+puppet module install  roshan-wordpress --version 1.0.0
