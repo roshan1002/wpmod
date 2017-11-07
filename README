@@ -88,7 +88,7 @@ php::extensions:
 
 php::fpm::pools:
   'www':
-    listen: unix:/var/run/php5-fpm.sock
+    listen: 127.0.0.1:9000
     pm_status_path: /php-status
 
 
