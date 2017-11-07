@@ -11,7 +11,7 @@ puppet module install roshan-php --version 5.0.0
 puppet module install  roshan-wordpress --version 1.0.0
 
 
-ADD the following to your node on the hiera yaml (ypourdomain.yaml)
+ADD the following to your node on the hiera yaml (yourdomain.yaml)
 
 
 vdomain: testpuppet.instantappz.com
