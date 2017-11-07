@@ -94,12 +94,6 @@ php::fpm::pools:
 
 ---------------------------
 
-RESTART: 
-           /etc/init.d/mysqld restart
-           
-           /etc/init.d/nginx restart
-         
-           /etc/init.d/php-fpm restart
 
 Access URL:
 
